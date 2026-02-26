@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad</h1>
-<h3 align="center">A passionate engineer turned aspiring data scientist, using data, code, and systems thinking to contribute towards a positive impact</h3>
+<h3 align="center">A passionate engineer turned aspiring Tech Proffessional, using data, code, and systems thinking to contribute towards a positive impact</h3>
 
 - 🌱 I’m currently persuing my MS in Data Sciences.
 
